@@ -31,6 +31,8 @@ The following steps were taken in the project:
 
 Feel free to explore the provided queries and adapt them to your specific data analysis needs.
 
+Having defined the structure of our database, we can define the relations of it through an EER diagram as follows:
+
 ![EDR](https://github.com/dapafer/sql-data-base-building/blob/main/images/blockbuster_EER.png)
 
 ---
