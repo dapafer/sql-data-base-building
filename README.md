@@ -1,17 +1,17 @@
-# **BLOCKBUSTER project.**
+# 🎞️ **BLOCKBUSTER project.**
 
 ![portada](https://github.com/dapafer/sql-data-base-building/blob/main/images/blockbuster_ruins.png)
 
 ---
 This project is an implementation of a database for a movie rental store called "Blockbuster". It uses SQL language to define the database structure and perform queries on it.
 
-## DATA ANALYSIS AND TRANSFORMATION.
+## 📉 DATA ANALYSIS AND TRANSFORMATION.
 
 One important aspect of the Blockbuster project is the analysis and transformation of data. This involves examining the available data and applying transformations to make it more useful and meaningful for various tasks, such as generating reports or making business decisions.
 
 ---
 
-## STEPS TAKEN.
+## ☑️ STEPS TAKEN.
 
 The following steps were taken in the project:
 
